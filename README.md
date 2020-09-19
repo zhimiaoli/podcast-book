@@ -8,7 +8,7 @@ description: 中文播客使用手册; Everything you need to know about podcast
 
 这是一份关于中文播客的使用手册。
 
-1. [播客是什么？](1.-bo-ke-shi-shen-me.md)
+1. [播客是什么？](1.-what-is-podcasts.md)
 2. 你为什么要听播客
 3. 如何听播客-iOS
 4. 如何听播客-Android
