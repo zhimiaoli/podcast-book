@@ -15,8 +15,8 @@ description: 中文播客使用手册; Everything you need to know about podcast
 这是一份关于中文播客的使用手册。
 
 1. [播客是什么？](1.-what-is-podcasts.md)
-2. 你为什么要听播客
-3. 如何听播客-iOS
+2. [你为什么要听播客](why-should-you-listen-to-podcasts.md)
+3. [如何听播客-iOS](3.-how-to-listen-ios/)
 4. 如何听播客-Android
 5. 如何听播客-PC or Mac
 6. 中文播客推荐
