@@ -11,4 +11,5 @@
 * [6.1 人文](4.-zhong-wen-bo-ke-tui-jian/6.1-ren-wen.md)
 * [6.2 科技](4.-zhong-wen-bo-ke-tui-jian/6.2-ke-ji.md)
 * [6.3 访谈](4.-zhong-wen-bo-ke-tui-jian/6.3-fang-tan.md)
+* [其他推荐的播客目录](4.-zhong-wen-bo-ke-tui-jian/qi-ta-tui-jian-de-bo-ke-mu-lu.md)
 
