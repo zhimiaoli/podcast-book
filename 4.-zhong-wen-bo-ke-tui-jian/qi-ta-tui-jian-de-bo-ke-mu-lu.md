@@ -10,9 +10,9 @@ typlog的推荐目录，标题是`发现与推荐高质量的中文独立播客`
 
 {% embed url="https://getpodcast.xyz/" %}
 
+推荐播客的讨论
 
-
-
+[https://v2ex.com/t/764522](https://v2ex.com/t/764522)
 
 
 
